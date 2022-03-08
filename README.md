@@ -1,2 +1,1 @@
-This is third commit
-This is a new line
+This git test file
