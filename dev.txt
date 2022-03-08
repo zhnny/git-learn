@@ -10,5 +10,8 @@ This is the fifth new line
 This is the third new line
 This is the forth new line
 This is a new line
+<<<<<<< HEAD
 This is a new line
 This is a new line
+=======
+>>>>>>> Add a new line
